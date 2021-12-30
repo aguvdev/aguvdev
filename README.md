@@ -33,4 +33,4 @@
 
 ---
 
-[![Agustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hannagustinvega&hide=stars,prs,issues)](https://github.com/hannagustinvega/github-readme-stats)
+[![Agustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hannagustinvega&hide=stars,prs,issues&show_icons=true&theme=synthwave)](https://github.com/hannagustinvega/github-readme-stats)
