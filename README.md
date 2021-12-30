@@ -35,6 +35,8 @@
 
 [![Agustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hannagustinvega&hide=stars,prs,issues&show_icons=true&theme=synthwave)](https://github.com/hannagustinvega/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannagustinvega&theme=tokyonight)
+
 [webVSC]: https://code.visualstudio.com/docs
 [webHTML5]: https://developer.mozilla.org/es/docs/Glossary/HTML5
 [webCSS3]: https://developer.mozilla.org/es/docs/Web/CSS
