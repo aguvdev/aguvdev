@@ -1,6 +1,6 @@
 ### ¡Buenas a todos! me llamo Agustín. 👋
 
-## Soy un desarrollador con un enfoque en el Frontend (Con el sueño de ser uno muy bueno en React 😀).
+## Soy un desarrollador con un enfoque en el Frontend.
 
 <br />
 
