@@ -31,7 +31,7 @@
 <br />
 <br />
 
-<a href="https://app.daily.dev/Saibaman"><img src="https://api.daily.dev/devcards/3354ed6ae12a4a73bef90e4f27385d6f.png?r=j4u" width="400" alt="Agustin Vega's Dev Card"/></a>
+<a href="https://app.daily.dev/Saibaman"><img src="https://api.daily.dev/devcards/3354ed6ae12a4a73bef90e4f27385d6f.png?r=uqk" width="400" alt="Agustin Vega's Dev Card"/></a>
 
 ---
 
