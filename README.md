@@ -1,6 +1,6 @@
 ### ¡Buenas a todos! me llamo Agustín. 👋
 
-## Soy un web dev 👨‍💻 con un enfoque en el Frontend 🎨.
+## Soy un web dev 👨‍💻, con un enfoque en el Frontend 🎨.
 
 <br />
 
