@@ -35,9 +35,9 @@
 
 ---
 
-[![Agustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hannagustinvega&hide=prs,issues&show_icons=true&theme=synthwave)](https://github.com/hannagustinvega/github-readme-stats)
+[![Agustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=aguvdev&hide=prs,issues&show_icons=true&theme=synthwave)](https://github.com/hannagustinvega/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannagustinvega&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aguvdev&theme=synthwave)
 
 [webVSC]: https://code.visualstudio.com/docs
 [webHTML5]: https://developer.mozilla.org/es/docs/Glossary/HTML5
