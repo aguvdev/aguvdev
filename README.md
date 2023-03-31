@@ -4,9 +4,9 @@
 
 <br />
 
-- 🌱 Actualmente estoy aprendiendo de todo, básicamente 🤣.
+- 🌱 Actualmente estoy estudiando una Licenciatura en Comercio Electrónico 📖.
 - 👯 Busco colaborar con desarrolladores para expandir mi conocimiento 😁.
-- 🥅 2021 Meta: Dominar React a un buen nivel 🤓.
+- 🥅 2023 Meta: Dominar NextJs a un buen nivel 🤓.
 - ⚡ Me gusta (además de codear): 
   - Dibujar.
   - Hacer música.
