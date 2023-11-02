@@ -1,17 +1,6 @@
 ### ¡Buenas a todos! me llamo Agustín. 👋
 
-## Soy un web dev 👨‍💻, y me estoy enfocando en el Frontend 🎨.
-
 <br />
-
-- 🌱 Actualmente estoy estudiando una Licenciatura en Comercio Electrónico 📖.
-- 👯 Busco colaborar con desarrolladores para expandir mi conocimiento 😁.
-- 🥅 2023 Meta: Dominar NextJs a un buen nivel 🤓.
-- ⚡ Me gusta (además de codear): 
-  - Dibujar.
-  - Hacer música.
-  - Jugar videojuegos de gestión de recursos.
-  - Ver video-análisis de obras audiovisuales.
 
 ### Languajes y Herramientas:
 
